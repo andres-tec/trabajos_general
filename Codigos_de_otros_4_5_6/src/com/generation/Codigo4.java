@@ -32,7 +32,7 @@ public class Codigo4 {
 	            g = 1;
 	          }
 	          break;
-	        case "tijera":
+	        case "tijeras"://se agrego un "s" para este caso
 	          if (j2.equals("papel")) {
 	            g = 1;
 	          }
