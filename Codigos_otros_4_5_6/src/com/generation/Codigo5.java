@@ -8,7 +8,7 @@ public class Codigo5 {
     System.out.print("Introduzca un número: ");//se remplazo comillas simples por dobles
     int ni = s.nextInt();//se cambio el tipo de dato, string por int al igual que nextLine por nextInt 
     int c = ni;
-    
+   
     int afo = 0;
     int noAfo = 0;
     
